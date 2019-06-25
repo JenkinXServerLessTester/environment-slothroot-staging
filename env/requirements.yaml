@@ -7,6 +7,9 @@ dependencies:
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
   version: 2.3.89
+- name: q13117-python-web-20190625-02
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: q13117-spring-web-20190625-01
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
