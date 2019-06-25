@@ -12,4 +12,4 @@ dependencies:
   version: 0.0.1
 - name: q13117-voting-app-worker
   repository: http://jenkins-x-chartmuseum:8080
-  version: 1.0.0
+  version: 1.0.1
